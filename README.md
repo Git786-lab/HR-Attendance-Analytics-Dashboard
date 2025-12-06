@@ -20,3 +20,7 @@ This dashboard helps HR and management make better workforce decisions. For exam
 • When sick leave trends are high (e.g., seasonal patterns)
 • Whether more employees are working from home during certain periods
 This allows the organization to schedule major tasks or releases at a time when maximum staffing and support are available.
+
+
+Dashboard preview:
+https://github.com/Git786-lab/HR-Attendance-Analytics-Dashboard/blob/main/ss%20HR%20analitic%20powerbi.PNG
